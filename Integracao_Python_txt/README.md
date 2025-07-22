@@ -10,7 +10,7 @@ Este desafio tem como objetivo praticar a análise de dados relacionados ao Funi
 🗂️ Estrutura dos Códigos de Origem
 Os códigos indicam a origem de cada aluno conforme abaixo:
 
-Código de Origem	        Significado
+Código de Origem	        - Significado
 - hashtag_site_org	            - Visitante vindo do site da Hashtag
 - hashtag_yt_org	            - Visitante vindo do YouTube da Hashtag
 - hashtag_ig_org	            - Visitante vindo do Instagram da Hashtag
