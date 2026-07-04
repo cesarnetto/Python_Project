@@ -31,7 +31,7 @@ pyautogui.click(x=3007, y=430) # baixa o arquivo
 time.sleep(4)
 
 # Abrir a base de dados
-caminho = r"C:\Users\Cesar Neto\Downloads\Vendas - Dez.xlsx"
+caminho = r""               # Caminho da base de dados
 tabela = pandas.read_excel(caminho)
 
 # Visualizar as informações da base de dados
@@ -55,7 +55,7 @@ pyautogui.click(x=1481, y=180)
 time.sleep(6)
 
 # Enviar o email
-pyautogui.write("cesarnetto21@gmail.com")
+pyautogui.write("") # E-mail Destinatário
 pyautogui.press("tab") # seleciona o email
 pyautogui.press("tab") # passar para o campo do assunto
 
