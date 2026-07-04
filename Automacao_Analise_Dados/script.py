@@ -35,7 +35,7 @@ caminho = r"C:\Users\Cesar Neto\Downloads\Vendas - Dez.xlsx"
 tabela = pandas.read_excel(caminho)
 
 # Visualizar as informações da base de dados
-display(tabela)
+#display(tabela)
 
 # somar o faturamento de todos os produtos = somar a coluna de Valor Final
 faturamento = tabela["Valor Final"].sum()
